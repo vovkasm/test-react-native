@@ -238,7 +238,6 @@
 #import "RCTSRWebSocket.h"
 #import "RCTWebSocketExecutor.h"
 #import "RCTWebSocketModule.h"
-#import "fishhook.h"
 
 FOUNDATION_EXPORT double ReactVersionNumber;
 FOUNDATION_EXPORT const unsigned char ReactVersionString[];
