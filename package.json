@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "https://github.com/vovkasm/react-native.git#cocoapods-frameworks"
+    "react-native": "git+https://github.com/vovkasm/react-native.git#cocoapods-frameworks"
   },
   "devDependencies": {
     "babel-jest": "23.0.1",
